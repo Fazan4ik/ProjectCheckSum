@@ -36,7 +36,7 @@ namespace ProjectCheckSum
 
             Console.ResetColor();  
         }
-    }
+    } 
     class Program
     {
         static void Main(string[] args)
